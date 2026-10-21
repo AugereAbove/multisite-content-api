@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Multisite Content</title>
+  <desc id="desc">One content API with separate page namespaces for each site.</desc>
+  <rect width="1200" height="300" rx="16" fill="#ede7dc"/>
+  <path d="M48 247H1152" stroke="#c7bca9"/>
+  <text x="54" y="57" fill="#77634d" font-family="monospace" font-size="14" letter-spacing="3">DJANGO / REST / SQLITE</text>
+  <text x="50" y="134" fill="#302a23" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="600">Multisite Content</text>
+  <text x="54" y="183" fill="#64594b" font-family="Segoe UI,Arial,sans-serif" font-size="22">One API. Separate sites. Deliberate publishing.</text>
+  <g font-family="monospace" font-size="16" text-anchor="middle">
+    <path d="M826 108V164H879M826 108H879" fill="none" stroke="#8c7556" stroke-width="2"/>
+    <rect x="714" y="83" width="112" height="50" rx="7" fill="#302a23"/>
+    <text x="770" y="114" fill="#f6f0e5">API</text>
+    <rect x="879" y="83" width="258" height="50" rx="7" fill="#ddd2bf"/>
+    <text x="1008" y="114" fill="#473a2b">main / hello</text>
+    <rect x="879" y="140" width="258" height="50" rx="7" fill="#d1d8cd"/>
+    <text x="1008" y="171" fill="#374335">notes / hello</text>
+  </g>
+  <text x="54" y="278" fill="#77634d" font-family="monospace" font-size="13" letter-spacing="2">SITE SCOPING / DRAFT VISIBILITY / STAFF WRITES</text>
+</svg>

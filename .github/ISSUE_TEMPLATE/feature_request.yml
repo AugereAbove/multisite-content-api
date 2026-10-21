@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest a specific API or workflow improvement.
+title: "Feature: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the content workflow you cannot complete today.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Include an example request and response when useful.
+    validations:
+      required: true
+  - type: textarea
+    id: permissions
+    attributes:
+      label: Permission implications
+      description: Who should be able to read or change the content?
